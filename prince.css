@@ -1,0 +1,16 @@
+@import"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.firstblock{
+    border: 1px solid black;
+    height: 600px;
+    width: 850px;
+margin-left: 300px;
+/* background-color: gray; */
+}
+.secondblock{
+    border: 1px solid black;
+    height: 100px;
+    width: 850px;
+    background-color: blue;
+    margin-left: 300px;
+
+}
